@@ -1,2 +1,2 @@
 # demo
-this is about first demo project 
+this is about my first demo project 
